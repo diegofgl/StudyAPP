@@ -21,7 +21,7 @@ Contribuições e melhorias são sempre bem-vindas! Se você encontrar maneiras 
 
 Espero que este projeto seja útil para aprender sobre o desenvolvimento de aplicativos de interface de usuário em Swift. Divirta-se explorando o código-fonte e experimentando com suas próprias ideias!
 
-**Obs:**Ainda em Desenvolvimento!
+**Obs:** Ainda em Desenvolvimento!
 
 
 https://github.com/diegofgl/StudyAPP/assets/122054408/f4f182c8-2f8e-461f-9c62-d135fa4c0f12
